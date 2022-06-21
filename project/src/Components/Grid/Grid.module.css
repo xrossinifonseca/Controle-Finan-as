@@ -1,0 +1,16 @@
+.table {
+  width: 98%;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0px 0px 3px #ccc;
+  border-radius: 5px;
+  max-width: 1090px;
+  margin: 20px auto;
+  align-items: center;
+}
+.table th {
+  width: 40px;
+
+  border-bottom: inset;
+  padding-bottom: 5px;
+}

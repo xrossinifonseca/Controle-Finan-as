@@ -1,0 +1,8 @@
+.td {
+  padding-top: 15px;
+  text-align: center;
+  word-break: break-all;
+}
+.trash {
+  cursor: pointer;
+}
